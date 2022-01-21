@@ -9,7 +9,7 @@ This product is a derivative of the 6-Word-Plate, albeit in a much more compact 
 • Design of the CipherTag is compatible with BIP0038 and SLIP0038 standards;<br/>
 &nbsp;&nbsp;ergo compatiable with LEDGER®, TREZOR®, METAMASK®, Et al.<br/>
 • Encoding is permanent and requires use of a manual punch or automatic center punch.<br/>
-• Can be utilized in a Shamrir's Secret Sharing.<br/>
+• Can be utilized in a Shamir's Secret Sharing.<br/>
 • Double Sided. Encode 12 words. Two CipherTags are required to secure 24 Seed Words.<br/>
 • Novel 3x11 method of storage of user 'cipher'(Seed Words).<br/>
 • Novel 4x10 method of storage of user 'cipher'(Seed Words).<br/>
