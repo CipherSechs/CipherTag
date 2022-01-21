@@ -5,6 +5,7 @@ This product is a derivative of the 6-Word-Plate, albeit in a much more compact 
 <br/>
 <br/>
 ## Specification  
+• Consists of 2 tags.<br/>
 • Dimensions: 50mm x 28mm.<br/>
 • Constructed out of 1.8mm thick mirror polished stainless steel.<br/>
 • Stainless steel has a melting point of 2550 deg f(1400 deg C).<br/>
