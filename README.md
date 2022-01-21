@@ -1,7 +1,8 @@
 # CipherTag
 Identifying a need in the market space for a product that is _extremely affordable_ and robust, CipherSechs has created the CipherTag™.
-This product is a derivative of the 6-Word-Plate, albeit in a much more compact size and marginally less robust in terms of encoding your Seed Phrase.
-
+This product is a derivative of the 6-Word-Plate, albeit in a much more compact size and marginally less robust in terms of encoding your Seed Phrase.<br/>
+<br/>
+<br/>
 ## Specification  
 • Constructed out of 1.8mm thick mirror polished stainless steel.<br/>
 • Stainless steel has a melting point of 2550 deg f(1400 deg C).<br/>
