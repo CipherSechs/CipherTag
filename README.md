@@ -21,9 +21,16 @@ This product is a derivative of the 6-Word-Plate, albeit in a much more compact 
 <br/>
 <br/>
 <br/>
-## Disclaimer
+## DISCLAIMER
 ###### All photographs and text appearing here are the exclusive property of CipherSechs™ (except where stated otherwise) and are protected under international copyright treaties. They are made available for your personal viewing enjoyment only. No images are within the Public Domain. The photographs may not be copied, reproduced, redistributed, manipulated, projected, used or altered in any way without the prior express written permission of CipherSechs™.
 <br/>
 © CipherSechs 2022<br/>
-CipherTag™, CipherSechs™ 6 Word Plate™, CipherSechs™ 12 Word Plate™, CipherCoin™ BIP38 PPPK, CipherSechs™ Legacy™<br/>
-Aforementioned Products and/or Designs are Patent Pending.
+CipherSechs 6-Word-Plate™ 4x10, 3x11, 3x11 OPS,<br/>
+CipherSechs 12-Word-Plate™ 4x10, 3x11, 3x11 OPS,<br/>
+CipherTag™ 4x10, 3x11, 3x11 OPS,<br/> 
+CipherCoin™ BIP38 PPPK,<br/>
+CipherLegacy™<br/>
+Aforementioned Products and/or Designs are Patent Pending<br/>
+<br/>
+
+![Signature - CipherSechs Definition](https://user-images.githubusercontent.com/97874862/150514959-49d230cf-449b-4a74-8c8f-c565b54d02b2.png)
