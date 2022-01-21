@@ -19,4 +19,9 @@ This product is a derivative of the 6-Word-Plate, albeit in a much more compact 
 <br/>
 <br/>
 ## Disclaimer
-Product and design is patent pending.
+###### All photographs and text appearing here are the exclusive property of CipherSechs™ (except where stated otherwise) and are protected under international copyright treaties. They are made available for your personal viewing enjoyment only. No images are within the Public Domain. The photographs may not be copied, reproduced, redistributed, manipulated, projected, used or altered in any way without the prior express written permission of CipherSechs™.
+<br/>
+© CipherSechs 2022<br/>
+CipherTag™, CipherSechs™ 6 Word Plate™, CipherSechs™ 12 Word Plate™, CipherCoin™ BIP38 PPPK, CipherSechs™ Legacy™<br/>
+Aforementioned Products and/or Designs are Patent Pending
+
